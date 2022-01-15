@@ -4,7 +4,7 @@ void name(){
 }
  void full_name(){
  int a = 10;
- printf("Md Kabil Uddin Biswas");
+ printf("\n Md Kabil Uddin Biswas");
 }
 int main()
 {
